@@ -2,9 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/parkksss/parkksss/wiki/%08I'm-Yeseul-Park">
-    <img src="https://img.shields.io/badge/👉 Introduction About Me 👈-181717?style=flat-square&logoColor=white" />
-  </a>
+  <a href="https://github.com/parkksss/parkksss/wiki/%08I'm-Yeseul-Park">👉 Introduction About Me 👈</a>
 </p>
 
 <p align="center" font-weight="bold">
