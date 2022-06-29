@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=110&section=header&text=Yeseul%20Park&fontSize=80&desc=박예슬%20/%20Front-End&descAlignY=90&descAlign=63&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=black&height=110&section=header&text=Yeseul%20Park&fontSize=80&desc=박예슬%20/%20Front-End&descAlignY=90&descAlign=63&descSize=25)
 
 
 <p align="center">
