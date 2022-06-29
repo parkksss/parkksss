@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=black&height=100&section=header&text=Yeseul%20Park&fontSize=60&desc=박예슬%20/%20Front-End&descAlignY=88&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=110&section=header&text=Yeseul%20Park&fontSize=80&desc=박예슬%20/%20Front-End&descAlignY=90&descAlign=63&descSize=25)
 
 
 <p align="center">
-  <a href="https://velog.io/@parkksss">👉 Introduction About Me 👈</a>
+  <a href="https://github.com/parkksss/parkksss/wiki/%08I'm-Yeseul-Park">
+    <img src="https://img.shields.io/badge/👉 Introduction About Me 👈-181717?style=flat-square&logoColor=white" />
+  </a>
 </p>
-
 
 <p align="center" font-weight="bold">
   안녕하세요! 새싹개발자입니다 🌱 <br>
@@ -29,7 +30,7 @@
 
 <h3 align="center">✨ More About Me ✨</h3>
 <p align="center">  
-  <a href="https://velog.io/@parkksss"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
+  <a href="https://github.com/parkksss/parkksss/wiki/%08I'm-Yeseul-Park"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
   <a href="https://velog.io/@parkksss"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
   <a href="mailto:yesleee9211@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
