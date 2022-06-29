@@ -2,16 +2,15 @@
 
 
 <p align="center" font-weight="bold">
-안녕하세요! 새싹개발자입니다 🌱 <br>
-함께할 수 있는 삶이 무엇보다 아름답다고 생각합니다 <br>
-어제보다 더 성장한 우리를 위하여! 🍻
+  안녕하세요! 새싹개발자입니다 🌱 <br>
+  함께할 수 있는 삶이 무엇보다 아름답다고 생각합니다 <br>
+  어제보다 더 성장한 우리를 위하여! 🍻
 </p>
 
-<br>
+## 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp 
@@ -29,3 +28,4 @@
   <a href="mailto:yesleee9211@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
+<br>
