@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=150&section=header&text=Yeseul%20Park&fontSize=60&desc=박예슬%20/%20Front-End&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=black&height=100&section=header&text=Yeseul%20Park&fontSize=60&desc=박예슬%20/%20Front-End&descAlignY=88&descAlign=60)
+
+
+<p align="center">
+  <a href="https://velog.io/@parkksss">👉 Introduction About Me 👈</a>
+</p>
 
 
 <p align="center" font-weight="bold">
@@ -22,8 +27,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">✨ More About me ✨</h3>
-<p align="center">
+<h3 align="center">✨ More About Me ✨</h3>
+<p align="center">  
+  <a href="https://velog.io/@parkksss"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
   <a href="https://velog.io/@parkksss"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
   <a href="mailto:yesleee9211@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
