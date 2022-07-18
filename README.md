@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/parkksss/parkksss/wiki/%08I'm-Yeseul-Park">👉 Introduction About Me 👈</a>
+  <a href="https://github.com/parkksss/parkksss/wiki">👉 Introduction About Me 👈</a>
 </p>
 
 <p align="center" font-weight="bold">
