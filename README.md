@@ -29,7 +29,7 @@
 
 <h3 align="center">✨ More About Me ✨</h3>
 <p align="center">  
-  <a href="https://github.com/parkksss/parkksss/wiki/%08I'm-Yeseul-Park"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
+  <a href="https://github.com/parkksss/parkksss/wiki"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
   <a href="https://velog.io/@parkksss"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
   <a href="mailto:yesleee9211@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
